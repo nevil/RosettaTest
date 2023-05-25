@@ -1,0 +1,3 @@
+---
+BUNDLE_BIN: "bundler/bin"
+BUNDLE_CLEAN: "true"
